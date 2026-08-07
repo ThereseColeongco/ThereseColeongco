@@ -14,6 +14,8 @@
     <img width="50" height="50" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img width="50" height="50" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
     
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+          
           
 </p>
 ![HTML](https://shields.io) ![CSS](https://shields.io) ![Flask](https://shields.io) ![SQL](https://shields.io) ![Git](https://shields.io)
