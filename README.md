@@ -11,6 +11,8 @@ I'm a 2nd year computing science student specializing in AI at the University of
 <p>
     <img width="50" height="50" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img width="50" height="50" alt="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
+    <img width="50" height="50" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
           
 </p>
-![R](https://shields.io) ![C](https://shields.io) ![JavaScript](https://shields.io) ![HTML](https://shields.io) ![CSS](https://shields.io) ![Flask](https://shields.io) ![SQL](https://shields.io) ![Git](https://shields.io)
+![JavaScript](https://shields.io) ![HTML](https://shields.io) ![CSS](https://shields.io) ![Flask](https://shields.io) ![SQL](https://shields.io) ![Git](https://shields.io)
