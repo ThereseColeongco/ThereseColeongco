@@ -1,6 +1,6 @@
 ## Hi, I'm Therese! 👋
 
-### About Me
+### 🤓 About Me
 I'm a 2nd year computing science student specializing in AI at the University of Alberta ☺️
 
 🔭 I’m currently working on a heart disease classifier in PyTorch<br>
