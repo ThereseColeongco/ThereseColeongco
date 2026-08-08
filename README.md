@@ -1,12 +1,12 @@
-## Hi, I'm Therese!
+## Heya, I'm Therese!
 
-### 👽 About Me
+### About Me
 - I'm a 2nd year computing science student specializing in AI at the University of Alberta<br>
 - I’m currently working on a heart disease classifier in PyTorch<br>
 - I'm currently learning data structures and algorithms, NumPy, and more!<br>
 - Fun fact: I used to study life sciences at Queen's and learning about bioinformatics is what sparked my interest in computing science 🤓
 
-### 🛠️ Tech Stack
+### Tech Stack
 <p>
     <img width="50" height="50" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img width="50" height="50" alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
